@@ -1,10 +1,10 @@
 # Site settings
-title: Freak Blog
-SEOTitle: I am a freak
+title: FREAK BLOG
+SEOTitle: I am just a freak
 header-img: img/home-bg.jpg
 email: songcwzjut@163.com
-description: "同一个世界，同一个梦想。"
-keyword: "William, Python, JavaScript, 机器学习, 人工智能"
+description: "存在先于本质"
+keyword: "William, Python, JavaScript, 机器学习, 人工智能，数学"
 url: "https://freakwill.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,13 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     songcongwei54@sina.com
-zhihu_username:     freakwill
+weibo_username:     心之怯
+zhihu_username:     William
 github_username:    freakwill
 twitter_username:   WilliamPython
 #facebook_username:  william
 #linkedin_username:  firstname-lastname-idxxxx
-
 
 
 # Build settings
@@ -33,13 +32,11 @@ anchorjs: true                          # if you want to customize anchor. check
 #timezone: CN  
 
 
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
-
 
 
 # Markdown settings
@@ -57,13 +54,11 @@ kramdown:
       start_line: 1
 
 
-
 # Disqus settings
-disqus_username: hux
+disqus_username: freakwill
 
 # Netease settings
 netease_comment: false
-
 
 
 # Analytics settings
@@ -72,15 +67,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
+ga_domain: freakwill.github.io
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-about-description: "菩提本无树，明镜亦非台；本来无一物，何处惹尘埃。"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
@@ -88,16 +81,13 @@ featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
 
 
 # Friends
