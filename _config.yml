@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     freakwill
+weibo_username:     songcongwei54@sina.com
 zhihu_username:     freakwill
 github_username:    freakwill
-twitter_username:   freakwill
+twitter_username:   WilliamPython
 #facebook_username:  william
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -103,9 +103,9 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+        title: "玄黄",
+        href: "http://huangxuan.me"
+    },{
         title: "乱序",
         href: "http://mida.re/"
     },{

@@ -6,7 +6,7 @@
 
  /*!
  * Hux Blog v1.6.0 (http://startbootstrap.com)
- * Copyright 2016 @huxpro
+ * Copyright 2019 @freakwill
  * Licensed under Apache 2.0 
  */
 
